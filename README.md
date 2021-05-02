@@ -1,2 +1,2 @@
 # homepage
-My very own personal website. Basically this is just a résumé.
+it is website for Ryu Hoshi (リュウ Ryū). Basically this is just a résumé.
