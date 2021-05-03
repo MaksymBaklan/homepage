@@ -1,4 +1,2 @@
 # homepage
-it is website for Ryu Hoshi (リュウ Ryū). Basically this is just a résumé.
-
-🧙Hocus-pocus!
+It is website for Ryu Hoshi (リュウ Ryū). Basically this is just a résumé.
